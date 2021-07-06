@@ -5,8 +5,8 @@
 
 String apiKey = "PZUUGLJTUUEADEJ9";
 
-const char *ssid = "REALME";
-const char *pass = "iamdokania";
+const char *ssid = "ssid";
+const char *pass = "password";
 const char* server = "api.thingspeak.com";
 
 WiFiClient client;
